@@ -1,6 +1,6 @@
 # JobFrontBackend
 
-# On the frontend just put the login to work. Ready-made frameworks can be used.
+# On the frontend just put the login to work. Persist data with simple ReactJS/HTML.
 
 # Job Posting - Backend
 
